@@ -2144,6 +2144,21 @@ sudo paqctl logs      # مشاهده لاگ‌ها
 
 ---
 
+## 📖 Documentation & Guides
+
+For detailed tutorials and related tools, visit SamNet:
+
+- **[What Is a VPN — Complete Guide](https://www.samnet.dev/learn/everyday/what-is-vpn/)** — Understand VPNs, when you need one, and how to build your own with paqctl
+- **[SOCKS5 Proxy Setup Guide](https://www.samnet.dev/learn/networking/socks5-proxy-setup/)** — Set up SOCKS5 proxies using SSH, Dante, or Docker
+- **[WireGuard VPN Setup](https://www.samnet.dev/learn/cheatsheets/wireguard-setup/)** — Alternative VPN solution with SamNet-WG management tool
+- **[3X-UI Panel Setup](https://www.samnet.dev/learn/networking/xui-setup/)** — VLESS, VMess, Reality, Trojan, and CDN configurations
+- **[Cloudflare Setup Guide](https://www.samnet.dev/learn/networking/cloudflare-setup/)** — CDN configuration for hiding your server IP
+- **[iptables Cheat Sheet](https://www.samnet.dev/learn/cheatsheets/iptables-guide/)** — Firewall rules for protecting your proxy server
+- **[Server Hardening Guide](https://www.samnet.dev/learn/security/server-hardening/)** — Secure your VPS before deploying any proxy
+- **[VPN Leak Test](https://www.samnet.dev/tools/vpn-leak-test/)** — Check if your proxy is actually hiding your IP
+
+---
+
 ## مشارکت
 
 مشکلات و pull request در گیت‌هاب:
